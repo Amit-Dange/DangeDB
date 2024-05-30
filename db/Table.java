@@ -2,6 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
+// need to store , view of table with printf 
 public class Table {
     private String name;
     private List<String> columns;
